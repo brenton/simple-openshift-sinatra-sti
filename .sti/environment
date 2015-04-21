@@ -1,0 +1,2 @@
+HTTP_PROXY=example.com
+HTTPS_PROXY=example.com
